@@ -1,8 +1,7 @@
 
-![CI](https://github.com/<markovanton1986>/<working_environment>/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/markovanton1986/anim/actions/workflows/web.yml/badge.svg)
 
 
-# Webpack5
+# Домашнее задание к занятию "9. Анимации и CSS"
 
-[Руководство по настройке Webpack](https://webpack.js.org/guides/)
-[Руководство по настройке GitHub Actions](https://docs.github.com/en/actions/quickstart)
+
